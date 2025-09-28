@@ -1,0 +1,9 @@
+# Day2 环境验证
+
+## 1. 安装列表
+![pip list](pip_list.png)
+
+## 2. 通义千问 Hello World
+![qwen reply](qwen_reply.png)
+
+&gt; 验证时间：2025-09-26
